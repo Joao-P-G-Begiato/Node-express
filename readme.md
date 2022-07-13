@@ -1,6 +1,6 @@
 # Node Express
 
-Projeto da primeira sprint do quarto módulo do curso de Web Dev. FullStack da Resilia, a proposta é a de criar uma aplicação que vai auxiliar desenvolvedores no dia a dia com CSS. A aplicação foi desenvolvida em Node, onde irá receber pelo terminal uma lista de propriedades do CSS e devolver essa lista ordenada de A-Z.
+Projeto da primeira sprint do quarto módulo do curso de Web Dev. FullStack da Resilia,a proposta é a de criar uma aplicação que vai auxiliar desenvolvedores no dia a dia com CSS. A aplicação foi d esenvolvida em Node, onde irá receber pelo terminal uma lista de propriedades do CSS e devolver essa lista ordenada de A-Z.
 A organização do CSS dessa maneira nos ajuda a encontrar com mais facilidade e agilidade a propriedade que precisamos alterar.
 
 ## 🚀 Começando
@@ -26,7 +26,7 @@ Instalação do Node:
 
 ```
 Windows:
-Você pode baixar direto pelo site: https://nodejs.org/en/
+Você pode baixar direto pelo site: [node](https://nodejs.org/en/)
 
 Ou então via Chocolatey:
 
@@ -35,7 +35,7 @@ choco install nodejs-lts
 ```
 ```
 Mac:
-Você pode baixar direto pelo site: https://nodejs.org/en/
+Você pode baixar direto pelo site: [node](https://nodejs.org/en/)
 
 ```
 
@@ -72,6 +72,7 @@ Exemplo de como devem ser executados os comandos:
 ![comandos](./assets/readme/comandos.JPG)
 
 Exemplo de como será impresso na tela do termminal os resultados:
+
 ![resultados](./assets/readme/Resultado.JPG)
 
 
@@ -80,7 +81,7 @@ Exemplo de como será impresso na tela do termminal os resultados:
 Ferramentas utilizadas:
 
 * [Readline](https://nodejs.org/api/readline.html#readline)
-* [Node](https://nodejs.org/en/) - Gerente de Dependência
+* [Node](https://nodejs.org/en/)
 
 ## ✒️ Autores
 
@@ -92,11 +93,9 @@ Projeto desenvolvido em conjunto pelo Squad 1:
 * **Lucas Passos** - *Programing* - [Lucas Passos](https://github.com/LucasBinho)
 * **Rafael Jordão** - *Pair Programing* - [Rafael Jordão](https://github.com/rafaelljordao)
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/Joao-P-G-Begiato/Node-express/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/Joao-P-G-Begiato/node-express/blob/main/LICENSE) para detalhes.
 
 
 ## 🎁 Expressões de gratidão
