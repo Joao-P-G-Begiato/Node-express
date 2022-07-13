@@ -25,19 +25,21 @@ Uma série de exemplos passo-a-passo que informam o que você deve executar para
 Instalação do Node:
 
 
-Windows:
+***Windows:***
+
 Você pode baixar direto pelo site: [node](https://nodejs.org/en/)
 
 Ou então via Chocolatey:
 ```
 choco install nodejs-lts
-
 ```
 
-Mac:
+***Mac:***
+
 Você pode baixar direto pelo site: [node](https://nodejs.org/en/)
 
-Linux via apt e snap:
+***Linux*** 
+via apt e snap:
 
 ```
 sudo apt-get install curl
@@ -45,14 +47,12 @@ sudo apt-get install curl
 curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 
 sudo apt-get install -y nodejs
-
 ```
 
 Após a instalação do Node utilizaremos os comandos do NPM (Node Package Manager) no terminal para instalar a biblioteca Readline:
 
 ```
 npm i readline
-
 ```
 Após a instalação você ele deve ter baixado uma pasta chamada node_modules conforme abaixo:
 
@@ -64,7 +64,6 @@ Para executar o teste você deve inserir o comando start do npm:
 
 ```
 npm start
-
 ```
 então irá aparecer no terminal a pergunta: "Digite uma propriedade de CSS:" , que irá receber o input, armazenar e organizar numa lista, quando terminar de colocar todos os input é só digitar SAIR ou sair para que ele pare de perguntar e imprima a lista.
 
@@ -82,7 +81,7 @@ Exemplo de como será impresso na tela do termminal os resultados:
 Ferramentas utilizadas:
 
 * [Readline](https://nodejs.org/api/readline.html#readline)
-* [Node](https://nodejs.org/en/)
+* [Node](https://nodejs.org/en/docs/)
 
 ## ✒️ Autores
 
@@ -104,7 +103,6 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 * Primeiro a Leonardo Costa, nosso Facilitador Tech que nos engaja a sempre buscar novos conhecimentos e botá-los em prática.
 * Em segundo mas não menos importante Anna Carolina Souza, nossa Facilitadora Soft que nos transforma na melhor versão de nós mesmo.
 * A Resilia Educação que nos permite ser o protagonista da nossa própria história.
-* e por fim a todos os colaboradores envolvidos com o projeto.
-
+* E por fim a todos os colaboradores envolvidos com o projeto.
 
 ---
