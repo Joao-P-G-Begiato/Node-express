@@ -24,23 +24,22 @@ Uma série de exemplos passo-a-passo que informam o que você deve executar para
 
 Instalação do Node:
 
-```
+
 Windows:
 Você pode baixar direto pelo site: [node](https://nodejs.org/en/)
 
 Ou então via Chocolatey:
-
+```
 choco install nodejs-lts
 
 ```
-```
+
 Mac:
 Você pode baixar direto pelo site: [node](https://nodejs.org/en/)
 
-```
+Linux via apt e snap:
 
 ```
-Linux via apt e snap:
 sudo apt-get install curl
 
 curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
@@ -56,6 +55,7 @@ npm i readline
 
 ```
 Após a instalação você ele deve ter baixado uma pasta chamada node_modules conforme abaixo:
+
 ![pastas](./assets/readme/pastas.JPG).
 
 ## ⚙️ Executando a aplicação
@@ -69,6 +69,7 @@ npm start
 então irá aparecer no terminal a pergunta: "Digite uma propriedade de CSS:" , que irá receber o input, armazenar e organizar numa lista, quando terminar de colocar todos os input é só digitar SAIR ou sair para que ele pare de perguntar e imprima a lista.
 
 Exemplo de como devem ser executados os comandos: 
+
 ![comandos](./assets/readme/comandos.JPG)
 
 Exemplo de como será impresso na tela do termminal os resultados:
